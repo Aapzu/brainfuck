@@ -9,4 +9,4 @@ npx bf-cli helloWorld/index.bf
 ```
 
 ## Content
- - [calculator](calculator/README.md)
+ - [calculator](./calculator/)
