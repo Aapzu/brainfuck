@@ -4,7 +4,7 @@ The simplest of 'em all
 
 Example:
 ```
-$ npx bf-cli index.md
+$ npx bf-cli index.bf
 ```
 prints
 ```
